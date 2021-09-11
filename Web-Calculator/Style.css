@@ -1,0 +1,225 @@
+@media only screen and (min-width: 800px) {
+body {
+    background-color:slategrey;
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left:45px;
+    text-shadow: 6px 2px black;
+    margin-bottom: 25px;
+}
+
+#example1 {
+    box-sizing: content-box;
+    background-color:navy;  
+    width: 500px;
+    height: 600px;
+    padding: 10px;  
+    border:2px solid blue;
+    margin-top: 50px;
+    margin-left:500px;
+    border-radius: 50px;
+  }
+  #example1:hover {
+    background-color:navy;    
+    border:2px solid red;
+    box-shadow:0 10px 10px red;
+  }
+  
+input {
+    width:75px;
+    height: 75px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin:5px;
+    margin-left: 11px;
+    background-color:green;
+    color: white;
+    border-style:solid;
+    border-color: black;
+    border-width: 5px;
+    outline: none;
+    cursor:pointer;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+input[type=button]:hover {
+    border-color:yellow;
+}
+
+input[type=text]:focus {
+    border-color: white;
+}
+input[type=text]{
+    padding: 1px 10px;
+    width:330px;
+    height:75px;
+    text-align:left;
+    background-color:black;
+    cursor:text;
+    scroll-padding-left: 50px;
+    letter-spacing: 3px;
+    margin-top:auto;
+    margin-bottom: 10px;
+}
+
+#myform {
+    margin-left:53px;
+    margin-top: auto;
+}
+}
+
+
+
+@media only screen and (max-width: 480px){
+    body {
+        background-color:slategrey;
+    }
+    h1 {
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color:white;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left:25px;
+        text-shadow: 6px 2px black;
+        margin-bottom: 25px;
+    }
+    
+    #example1 {
+        box-sizing: content-box;
+        background-color:navy;  
+        width: 300px;
+        height: 420px;
+        padding: 10px;  
+        border:2px solid rgb(255, 0, 0);
+        margin-top: 10px;
+        margin-left:10px;
+        border-radius: 50px;
+      }
+      #example1:hover {
+        background-color:navy;    
+        border:2px solid red;
+        box-shadow:0 10px 10px red;
+      }
+      
+    
+    
+    
+    input {
+        width:55px;
+        height: 55px;
+        font-size: 30px;
+        border-radius: 20px;
+        margin:5px;
+        background-color:green;
+        color: white;
+        border-style:solid;
+        border-color: black;
+        border-width: 5px;
+        outline: none;
+        cursor:pointer;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    input[type=button]:hover {
+        border-color:yellow;
+    }
+    
+    input[type=text]:focus {
+        border-color: white;
+    }
+    input[type=text]{
+        padding: 1px 10px;
+        width:230px;
+        height:50px;
+        text-align:left;
+        background-color:black;
+        cursor:text;
+        scroll-padding-left: 50px;
+        letter-spacing: 3px;
+        margin-top:auto;
+        margin-bottom: 10px;
+    }
+    
+    #myform {
+        margin-left:10px;
+        margin-top: auto;
+    }
+}
+
+
+@media only screen and (max-width: 800px){
+    body {
+        background-color:slategrey;
+    }
+    h1 {
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color:white;
+        font-size: 50px;
+        margin-top: 40px;
+        margin-left:45px;
+        text-shadow: 6px 2px black;
+        margin-bottom: 25px;
+    }
+    
+    #example1 {
+        box-sizing: content-box;
+        background-color:navy;  
+        width: 500px;
+        height: 600px;
+        padding: 10px;  
+        border:2px solid blue;
+        margin-top: 50px;
+        margin-left:120px;
+        border-radius: 50px;
+      }
+      #example1:hover {
+        background-color:navy;    
+        border:2px solid red;
+        box-shadow:0 10px 10px red;
+      }
+      
+    input {
+        width:75px;
+        height: 75px;
+        font-size: 30px;
+        border-radius: 20px;
+        margin:5px;
+        margin-left: 11px;
+        background-color:green;
+        color: white;
+        border-style:solid;
+        border-color: black;
+        border-width: 5px;
+        outline: none;
+        cursor:pointer;
+        font-family: 'Times New Roman', Times, serif;
+        -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }
+    input[type=button]:hover {
+        border-color:yellow;
+    }
+    
+    input[type=text]:focus {
+        border-color: white;
+    }
+    input[type=text]{
+        padding: 1px 10px;
+        width:330px;
+        height:75px;
+        text-align:left;
+        background-color:black;
+        cursor:text;
+        scroll-padding-left: 50px;
+        letter-spacing: 3px;
+        margin-top:auto;
+        margin-bottom: 10px;
+    }
+    
+    #myform {
+        margin-left:53px;
+        margin-top: auto;
+    }
+}
