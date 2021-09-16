@@ -1,4 +1,6 @@
 # Web-Lab
-This is repo contains all the projects that I have build for practicing Web Development.
+Web Lab is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
+
+#### The main objective behind this initiative is to provide you with access to top-notch content at zero cost.
 
 > Do checkout all the projects at [Web-Lab](https://saijeevanpuchakayala.github.io/Web-Lab/)
