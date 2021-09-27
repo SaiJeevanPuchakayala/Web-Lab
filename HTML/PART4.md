@@ -1,4 +1,4 @@
-# DAY4
+# PART 4
 
 We will be working with **Media in HTML.** Media is helpful when you want to make your website or **webpage look attractive by providing some interactivity to the user on the go.**  We have provided you with the content which you can go through and practice things out. **Don’t forget to do the exercises if there are any:)**
 

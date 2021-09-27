@@ -1,4 +1,4 @@
-# DAY Optional
+# PART 5
 
 We will be working with **APIs in HTML.** API is one of those things which you will be using many times in your **project to make your code lighter and faster**. We have provided you with the content which you can go through and practice things out. **Don’t forget to do the exercises if there are any:)**
 
