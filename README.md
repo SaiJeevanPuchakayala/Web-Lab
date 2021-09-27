@@ -32,16 +32,16 @@ Web Lab is designed with **beginner-friendly** lessons covering up **HTML, CSS, 
 Web Lab has segmented the resources into topics and inside each topic, the content is available in _PART^[0-9].md_ files. You can use the links below to navigate or use the GitHub navigator.
 
 * ### HTML (Hyper Text Markup Language)
-  > [HTML Readme]()
+  > [HTML Readme](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/ReadME.md)
 
-  > [PART1.md]()
+  > [PART1.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART1.md)
 
-  > [PART2.md]()
+  > [PART2.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART2.md)
 
-  > [PART3.md]()
+  > [PART3.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART3.md)
 
-  > [PART4.md]()
+  > [PART4.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART4.md)
 
-  > [PART5.md]()
+  > [PART5.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART5.md)
 
-  > [HTML QUIZ]()
+  > [HTML QUIZ](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/Html_Quiz.md)
