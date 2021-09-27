@@ -1,6 +1,47 @@
-# Web-Lab
+# Web-Lab 💻
 Web Lab is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
 
-#### The main objective behind this initiative is to provide you with clear cut road map with access to top-notch content.
+#### The main objective behind this initiative is to provide you with a clear-cut road map with access to top-notch content.
 
-> Do checkout all the projects at [Web-Lab](https://saijeevanpuchakayala.github.io/Web-Lab/)
+> Do check out all the projects at [Web-Lab](https://saijeevanpuchakayala.github.io/Web-Lab/)
+
+## Now let's get into the main objective behind `Web Lab`
+
+## Objective Contents
+
+Web Lab is designed with **beginner-friendly** lessons covering up **HTML, CSS, JavaScript, Bootstrap, NodeJS, ExpressJS, Python, Flask, Firebase, MongoDB, & MySQL**. And Web Lab mostly concentrates and encourages you on building **Projects** while learning at your **OWN PACE**, So make sure that you are using your skills and building projects of your **OWN INTEREST**.
+
+
+- [HTML](/HTML/ReadME.md)
+- [CSS (Coming Soon)](/CSS/ReadME.md) 
+- [Bootstrap (Coming Soon)](/Bootstrap/ReadME.md)
+- [JavaScript (Coming Soon)](/JavaScript/ReadME.md)
+- [Github (Coming Soon)](/Github/ReadME.md)
+- [Hosting (Coming Soon)](/Hosting/ReadME.md)
+- [NodeJS (Coming Soon)](/NodeJS/ReadME.md)
+- [ExpressJS (Coming Soon)](/ExpressJS/ReadME.md)
+- [Python (Coming Soon)](/Python/ReadME.md)
+- [Flask (Coming Soon)](/Flask/ReadME.md)
+- [MongoDB (Coming Soon)](/MongoDB/ReadME.md)
+- [MySQL (Coming Soon)](/MySQL/ReadME.md)
+- [Firebase (Coming Soon)](/Firebase/ReadME.md)
+
+
+## Resources
+
+Web Lab has segmented the resources into topics and inside each topic, the content is available in _PART^[0-9].md_ files. You can use the links below to navigate or use the GitHub navigator.
+
+* ### HTML (Hyper Text Markup Language)
+  > [HTML Readme]()
+
+  > [PART1.md]()
+
+  > [PART2.md]()
+
+  > [PART3.md]()
+
+  > [PART4.md]()
+
+  > [PART5.md]()
+
+  > [HTML QUIZ]()
