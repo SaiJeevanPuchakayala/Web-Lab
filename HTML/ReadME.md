@@ -9,9 +9,9 @@
 * HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
 ### PART-wise resources:
- 1. [PART1]()
- 2. [PART2]()
- 3. [PART3]()
- 4. [PART4]()
- 5. [PART5]()
- 6. [Html_Quiz]()
+ 1. [PART1](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART1.md)
+ 2. [PART2](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART2.md)
+ 3. [PART3](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART3.md)
+ 4. [PART4](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART4.md)
+ 5. [PART5](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART5.md)
+ 6. [Html_Quiz](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/Html_Quiz.md)
