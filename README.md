@@ -45,3 +45,19 @@ Web Lab has segmented the resources into topics and inside each topic, the conte
   > [PART5.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/PART5.md)
 
   > [HTML QUIZ](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/HTML/Html_Quiz.md)
+
+
+* ### CSS (Cascading Style Sheets)
+  > [CSS Readme](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/ReadME.md)
+
+  > [PART1.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/PART1.md)
+
+  > [PART2.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/PART2.md)
+
+  > [PART3.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/PART3.md)
+
+  > [PART4.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/PART4.md)
+
+  > [PART5.md](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/PART5.md)
+
+  > [CSS QUIZ](https://github.com/SaiJeevanPuchakayala/Web-Lab/blob/main/CSS/CSS_Quiz.md)
