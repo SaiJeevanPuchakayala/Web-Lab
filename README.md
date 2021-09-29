@@ -13,7 +13,7 @@ Web Lab is designed with **beginner-friendly** lessons covering up **HTML, CSS, 
 
 
 - [HTML](/HTML/ReadME.md)
-- [CSS (Coming Soon)](/CSS/ReadME.md) 
+- [CSS](/CSS/ReadME.md) 
 - [Bootstrap (Coming Soon)](/Bootstrap/ReadME.md)
 - [JavaScript (Coming Soon)](/JavaScript/ReadME.md)
 - [Github (Coming Soon)](/Github/ReadME.md)
